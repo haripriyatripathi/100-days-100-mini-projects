@@ -1,0 +1,11 @@
+{
+  "name": "ascii-cat-printer",
+  "version": "1.0.0",
+  "description": "CLI to print adorable ASCII cats, with message bubbles and simple animations.",
+  "bin": {
+    "catprint": "index.js"
+  },
+  "keywords": ["ascii", "cat", "cli", "fun"],
+  "license": "MIT",
+  "type": "module"
+}
