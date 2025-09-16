@@ -7,7 +7,7 @@ screen.title("✨ Solar System with Glitter & Rocket Puppy ✨")
 screen.setup(width=1000, height=800)
 screen.tracer(0)
 
-# --- Sun ---
+# -- Sun --
 sun = turtle.Turtle()
 sun.shape("circle")
 sun.color("gold")
