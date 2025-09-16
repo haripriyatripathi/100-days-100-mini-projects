@@ -1,6 +1,6 @@
 #!/usr/bin/env node
 // ASCII Cat Printer — zero deps
-// Usage: catprint [--list] [--random] [--cat N] [--say "text"] [--animate] [--action name]
+// Usage: catprint [--list] [--random] [--cat N] [--say "text"] [--animate] [-- action name]
 
 const cats = [
 ` /\\_/\\
