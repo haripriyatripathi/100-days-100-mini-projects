@@ -1,6 +1,6 @@
 import turtle, math, random, time
 
-# Setup s
+# -- Setup --
 screen = turtle.Screen()
 screen.bgcolor("black")
 screen.title("✨ Solar System with Glitter & Rocket Puppy ✨")
